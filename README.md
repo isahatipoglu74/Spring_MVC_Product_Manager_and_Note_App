@@ -1,7 +1,39 @@
-# Customer_Manager_App
+# Spring Mvc Product Manager and Note Application
+<p> 
+Bu yapıda Java Spring ,MVC ,JDBC teknolojileri kullanılarak kullanıcının sisteme ürün eklemesi sistemdeki ürünlerin listelenmesi ,
+ürünlerin liste üzerinden aratılması yapılmaktadır.
+Add Product sekmesinde sisteme yeni bir ürün eklemesi yapılabilmektedir.
+Add Note sekmesinde ise almak istediğimiz notları ve yeni not eklemesi yapılabilmektedir.
 
-Bu uygulamada  müşteri portföyünü yönettiğimiz sistemimizde, uygulama üzerinden user delete, user info,user update, user searching, pagination gibi uygulamalar yapılmıştır.
+</p>
 
-![Dashboard](https://user-images.githubusercontent.com/113295965/236699117-7e61d8fc-9762-4e70-a9bf-93721cca3592.png)
-![Settings](https://user-images.githubusercontent.com/113295965/236699120-568ba7c9-a0eb-4e34-a967-8e70be69f90a.png)
-![Searching](https://user-images.githubusercontent.com/113295965/236699188-13e9e9b4-4422-41de-9c9e-f6a7eb4c2211.png)
+# Yazılım Sürümleri:
+- Java 8
+- Spring 2.17.3
+- Mysql 8
+    
+# Ugulama Özellikleri:
+
+- [x] Ürün Kayıt
+- [x] Ürün Listeleme
+- [x] Ürün Arama
+- [x] Note listeleme 
+- [x] Note Kayıt 
+
+
+## Ugulama Note:
+```
+Bu uygulama üzerinde genel olarak ürün ve note yönetimi işlemleri yapılmaktadır.
+```
+
+
+# Project Display Image
+<p>
+
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/1.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/2.png" width="350" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/3.png" width="350" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/4.png" width="350" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/5.png" width="350" height="250" style="max-width:100%;"></a>
+</p>
+
