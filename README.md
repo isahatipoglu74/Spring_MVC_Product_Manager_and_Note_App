@@ -30,10 +30,10 @@ Bu uygulama üzerinde genel olarak ürün ve note yönetimi işlemleri yapılmak
 # Project Display Image
 <p>
 
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/1.png" width="300" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/2.png" width="350" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/3.png" width="350" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/4.png" width="350" height="250" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/Product_Stock_Tracking_Application/blob/main/5.png" width="350" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/1.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/2.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/3.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/4.png" width="300" height="250" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/Spring_MVC_Product_Manager_and_Note_App/blob/main/5.png" width="300" height="250" style="max-width:100%;"></a>
 </p>
 
